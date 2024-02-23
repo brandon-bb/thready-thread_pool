@@ -1,1 +1,1 @@
-# thready-thread_pool
+# thready::thread_pool
